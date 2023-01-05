@@ -11,4 +11,6 @@
 
 function test (){
   console.log("hello");
-}as
+}
+
+aswinp ppp
